@@ -1,2 +1,2 @@
-# C-Calculator
+# Simple Calculator
 Simple Calculator made using C#
