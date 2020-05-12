@@ -1,2 +1,2 @@
 # Simple Calculator
-Simple Calculator made using C#
+Simple Calculator made using VB.NET
